@@ -1,0 +1,12 @@
+Subject: Thanks for reaching out, {{name}}
+
+Hi {{name}},
+
+Thanks for connecting with Dan Young Real Estate in Arizona.
+I received your request and will follow up by {{contact_preference}} soon.
+
+Interest: {{interest_type}}
+Source: {{source}}
+
+Best,
+Dan Young

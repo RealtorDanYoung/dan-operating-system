@@ -1,0 +1,13 @@
+Subject: Appointment Confirmed - {{appointment_date}}
+
+Hi {{name}},
+
+Your appointment with Dan Young is confirmed.
+
+Date/Time: {{appointment_date}}
+Meeting type: {{meeting_type}}
+
+If anything changes, reply to this message and we will adjust.
+
+Best,
+Dan Young Real Estate

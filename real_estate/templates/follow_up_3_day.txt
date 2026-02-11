@@ -1,0 +1,10 @@
+Subject: Quick 3-day check-in
+
+Hi {{name}},
+
+Just checking in after our last conversation.
+Do you have any new questions about your {{interest_type}} goals?
+
+Reply any time and I can help with next steps.
+
+- Dan Young
